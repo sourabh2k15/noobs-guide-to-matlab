@@ -1,0 +1,12 @@
+octave docs 
+
+https://www.gnu.org/software/octave/doc/interpreter/
+
+matlab 
+
+http://www.bogotobogo.com/Matlab/
+
+speech processing http://www.mathworks.com/matlabcentral/profile/authors/4428430-speech-processing
+
+
+https://sites.google.com/site/butwhymath/m/convolution ( convolution )

@@ -1,0 +1,2 @@
+1) contrast enhancement by histogram equalization
+2) imshow , double , bit planes
